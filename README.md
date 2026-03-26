@@ -54,7 +54,4 @@ I aim to develop strong skills in backend development, systems design, and build
 ![](https://nirzak-streak-stats.vercel.app/?user=Realgamer7067&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Realgamer7067&theme=tokyonight&hide_border=true&layout=compact)
 
----
 
-## 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=Realgamer7067&icon=0&color=6)
